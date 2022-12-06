@@ -1,4 +1,8 @@
-﻿string[] CreateUserStringArray(int length)
+﻿/*tring[] stringArray = {"hello", "2", "world",":-)"};
+string[] stringArray = {"Russia", "Denmark", "Kazan"};
+string[] stringArray = {"1234", "1567", "-2", "computer science"};*/
+
+string[] CreateUserStringArray(int length)
 {
     string[] array = new string[length];
 
